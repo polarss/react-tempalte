@@ -21,7 +21,7 @@ This project uses many tools like:
 Create the project.
 
 ```
-npx degit polarss/vite-react-ts-template project-name
+npx degit polarss/react-template project-name
 ```
 
 Access the project directory.
